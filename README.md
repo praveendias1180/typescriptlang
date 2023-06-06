@@ -13,3 +13,12 @@ https://www.typescriptlang.org/
 67.1% of developers who are developing with the TS language or technology and have expressed interest in continuing to develop with it.
 
 ![](love.png)
+
+# Handbook
+
+```
+npm install -D typescript
+```
+
+https://www.typescriptlang.org/docs/handbook/intro.html
+
