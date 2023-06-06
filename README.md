@@ -42,3 +42,6 @@ https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 https://medium.com/@thejameskyle/type-systems-structural-vs-nominal-typing-explained-56511dd969f4
 
 
+![](ts-greeter.png)
+
+
