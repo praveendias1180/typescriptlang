@@ -7,3 +7,9 @@ https://www.typescriptlang.org/
 # TypeScript becomes JavaScript via the delete key.
 
 ![](ts-js.png)
+
+# TS Love
+
+67.1% of developers who are developing with the TS language or technology and have expressed interest in continuing to develop with it.
+
+![](love.png)
