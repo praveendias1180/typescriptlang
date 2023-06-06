@@ -1,4 +1,5 @@
 # Typescript
+## A Typed Superset of JavaScript
 
 https://www.typescriptlang.org/
 
