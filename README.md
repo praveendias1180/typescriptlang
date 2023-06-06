@@ -22,3 +22,8 @@ npm install -D typescript
 
 https://www.typescriptlang.org/docs/handbook/intro.html
 
+# References
+
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+
