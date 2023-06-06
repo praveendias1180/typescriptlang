@@ -25,6 +25,14 @@ npm install -D typescript
 
 https://www.typescriptlang.org/docs/handbook/intro.html
 
+
+# JS Good Parts
+
+Setting the attractions of my good parts aside, I have no other charms. 
+(Falstaff, Act 2 Scene 2 - he Merry Wives of Windsor)
+
+https://www.amazon.com/_/dp/0596517742?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20
+
 # References
 
 https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
