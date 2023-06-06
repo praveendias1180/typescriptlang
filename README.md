@@ -1,6 +1,8 @@
 # Typescript
 ## A Typed Superset of JavaScript
 
+### JavaScript’s runtime with a compile-time type checker
+
 https://www.typescriptlang.org/
 
 ![](typescript.png)
@@ -24,6 +26,8 @@ npm install -D typescript
 https://www.typescriptlang.org/docs/handbook/intro.html
 
 # References
+
+https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
 
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
